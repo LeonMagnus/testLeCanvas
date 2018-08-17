@@ -19,7 +19,7 @@ img.onload = () =>{
  img.src = 'testes.jpg'
 
 const prefix="/";
-var token = "MjE5NDIxNDMwNjI0ODEzMDU2.Dld5mw.q6k1PY_eVs7UMhlAMa06Ic27xzo";
+var token = "";
 
 bot.on('message', mes => {
 var resu = mes.content.toLowerCase();
