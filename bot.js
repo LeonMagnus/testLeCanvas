@@ -18,7 +18,7 @@ img.onload = () =>{
  img.src = 'testes.jpg'
 
 const prefix="/";
-var token = "";
+var token =  process.env.Discord_token ||  process.argv[2];;
 
 bot.on('message', mes => {
 var resu = mes.content.toLowerCase();
