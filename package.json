@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "e",
+  "main": "bot.js",
+  "dependencies": {
+    "canvas": "^1.6.11",
+    "discord.js": "^11.4.2",
+    "pixl-request": "^1.0.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LeonMagnus",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonMagnus/testLeCanvas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LeonMagnus/testLeCanvas/issues"
+  },
+  "homepage": "https://github.com/LeonMagnus/testLeCanvas#readme"
+}
