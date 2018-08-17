@@ -1,6 +1,5 @@
 const Discord = require("discord.js");
 const Canvas= require('canvas');
-const fs=require('fs');
 const bot = new Discord.Client();
 
 var Request = require('pixl-request');
